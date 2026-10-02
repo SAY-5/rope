@@ -2,6 +2,7 @@
 
 - #895 patchedast Starred and keyword now consumes their syntactically expected and ** (@lieryan)
 - #896 patchedast cleanup and refactoring (@lieryan)
+- #893 Fix changing constructor signatures for classes defined inside functions (@SAY-5)
 
 # Release 1.15.0
 
